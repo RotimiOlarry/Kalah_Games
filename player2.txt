@@ -1,0 +1,2 @@
+algorithm alphabeta
+evalfunc myscore
